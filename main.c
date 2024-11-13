@@ -120,7 +120,7 @@ else{printf("ha what a human answer, not recognizing such a simple thing ha ha\n
   return 0;
 }
 /*
-Hello future human person thing, thank you for looking at this prject and sseing the testament to how much Ive learned so far. As you are reading this I have hopefully learned much moe than this basic stuff, but still... this is my first and not at all last project! Dawn Latimer if you may feel the need to contact me do as such at daunte.latimer.907@gmail.com. completion date: 11:09 5/7/22
+Hello future human person thing, thank you for looking at this prject and sseing the testament to how much Ive learned so far. As you are reading this I have hopefully learned much moe than this basic stuff, but still... this is my first and not at all last project!if you may feel the need to contact me do as such at <redacted>. completion date: 11:09 5/7/22
 */
 
 /*
